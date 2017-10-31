@@ -1,0 +1,21 @@
+html
+    {
+      width:100%;
+      height: 100%;
+    }
+
+body
+    {
+    background-image: url(http://v.ikeepstudying.com/wp-content/uploads/2016/09/%E5%86%B0%E4%B8%8E%E7%81%AB%E4%B9%8B%E6%AD%8C%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F-%E7%8E%8B%E5%BA%A7%E6%B8%B8%E6%88%8F%E5%86%B0%E8%88%87%E7%81%AB%E4%B9%8B%E6%AD%8C%E6%AC%8A%E5%8A%9B.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+
+#White{color: white;}
+
+p
+  {
+    color: red;
+    font-size: 20px;
+  }
